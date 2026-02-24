@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Daniel Finney, a student at the University of Maryland, Baltimore County majoring in Computer Engineering with a specification in Electronic Systems.
-- 👀 I’m interested in refining my software skills by completing various projects to broaden and strengthen my knowledge of programming.
-- 🌱 I’m currently learning Data Structures and Algorithims in C++ as well as VERILOG in my Principles of Digital Design course.
+- 👋 Hi, I’m Daniel Finney, a student at the University of Maryland, Baltimore County majoring in Computer Engineering with a specification in Electronic Systems and Communications.
+- 👀 I’m interested in refining my hardware and software skills by completing various projects to broaden and strengthen my knowledge of programming.
+- 🌱 I’m currently learning to design FPGAs in VERILOG in my Programmable Logic Devices course and programming embedded systems in Arduino C as part of my Programming and Embedded Systems course.
+
 - 📫 How to reach me: dpfp012@gmail.com
 
 <!---
